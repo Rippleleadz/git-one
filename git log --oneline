@@ -1,0 +1,25 @@
+[33mcommit e69b1ce03e7f70ce0575918a6720d9a8ccdcd952[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Oscar <strange2155@yahoo.com>
+Date:   Mon May 21 19:46:26 2018 -0500
+
+    Revert "changed stuff"
+    
+    This reverts commit e9e6176a49c7df137976ac0b17cf2db21da41b70.
+
+[33mcommit e9e6176a49c7df137976ac0b17cf2db21da41b70[m
+Author: Oscar <strange2155@yahoo.com>
+Date:   Mon May 21 16:47:55 2018 -0500
+
+    changed stuff
+
+[33mcommit 03382c23251495fc7599c82a50c732f1ff52621a[m
+Author: Oscar <strange2155@yahoo.com>
+Date:   Mon May 21 16:45:03 2018 -0500
+
+    added index title
+
+[33mcommit d9f2fc8829f3348b480e4b26fdacde077b18daed[m
+Author: Oscar <strange2155@yahoo.com>
+Date:   Mon May 21 16:42:14 2018 -0500
+
+    added index and styles
